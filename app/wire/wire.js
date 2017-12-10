@@ -62,7 +62,7 @@ let wireClass = function () {
         return true;
     };
 
-    //return the wire functionalities
+    //return wire functionalities
     return {
         on,
         write
